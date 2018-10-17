@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotAl</string>
+    <string name="Temizle">Temizle</string>
+    <string name="Yeni">New</string>
+    <string name="Fırça">Brush</string>
+    <string name="Sil">Erase</string>
+    <string name="Kaydet">Save</string>
+    <string name="Paint">Paint</string>
+    <string name="go_fragment">Go Fragment</string>
+    <string name="title_activity_canvas">CanvasActivity</string>
+</resources>

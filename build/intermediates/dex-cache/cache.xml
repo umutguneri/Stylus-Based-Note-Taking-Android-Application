@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Umut\Desktop\LectureNotes\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2eda2c400a38828ac1b443f697b2bbb7ab0245a7">
+        <dex dex="C:\Users\Umut\Desktop\LectureNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_886df0ac7ceed4a522c20798ea451e3246dd931c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Umut\Desktop\LectureNotes\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Umut\Desktop\LectureNotes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9567711d86271969c067c06df7e49cf5460b2fe6\classes.dex" />
+    </item>
+
+</items>
