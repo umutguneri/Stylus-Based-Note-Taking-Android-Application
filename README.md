@@ -13,6 +13,8 @@ Apart from this, this application can be saved as a file format that takes up le
 instead of recording in picture format, and has the ability to see more than one page
 at the same time.
 
+Here is the apk file: https://github.com/umutguneri/computerProject/blob/master/app-debug.apk
+
 #### **UML DESIGN OF APPLICATION:**
 
 ![alt text](https://raw.githubusercontent.com/umutguneri/computerProject/master/NotAlUmldiagram-2.bmp)
