@@ -1,13 +1,12 @@
 
-# Stylus Based Crossplatform Note Taking Application
+# Stylus Based Note Taking Android Application
 
 #### **ABSTRACT**
 
-The Stylus Based Cross platform application is a drawing and presentation application
+The Stylus Based Note Taking Android Application is a drawing and presentation application
 that provides the user many features.  It has a pure-designed interface, allows users
 to select pen color and thickness.  It has also cleaning features for fixing a page or
-editing. This application can be run in both Android device and Windows platform, it
-can perform file transfer and edit.
+editing.
 This application provides the ability to draw a sketch as well as basic note taking.
 Apart from this, this application can be saved as a file format that takes up less space
 instead of recording in picture format, and has the ability to see more than one page
